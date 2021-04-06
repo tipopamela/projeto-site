@@ -13,5 +13,34 @@ main {
     width: 500px;
     margin: auto;
     padding: 10px;
+<<<<<<< Updated upstream
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.363);
+=======
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.712);
+}
+
+h1 {
+    font-size: 2em;
+    color: rgb(230, 177, 230);
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgb(230, 177, 230);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(236, 225, 203);
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+>>>>>>> Stashed changes
 }
